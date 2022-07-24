@@ -1,2 +1,2 @@
-# Kyp
+# Kypt
 Kypt
