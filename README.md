@@ -1,2 +1,2 @@
-# Kypt-Sniper
-Kypt Limited Sniper
+# Kyp
+Kypt
